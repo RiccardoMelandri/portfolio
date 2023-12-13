@@ -59,7 +59,7 @@ sidebar = html.Div(
             html.A("Download CV", id="download-cv-button", href="#", n_clicks=0, style={'color': '#141721'})
                         
         ], style={
-            'margin-top': '100px',
+            'margin-top': '50px',
             'width': '100%',  # Set the width of the dropdown
             'border': '2px solid #000',  # Add a 2px solid black border
             'border-radius': '5px',  # Optional: Add border radius for rounded corners
