@@ -1,0 +1,41 @@
+﻿ID,Disclosure,Tot,Year,Source,Water stress,Fresh,Fonte,Lat,Lon
+1,Water withdrawal,23,2015,Surface water,No,Fresh water,Castel d’Aiano (BO),44.278103,11.001818
+2,Water withdrawal,27,2017,Surface water,No,Fresh water,Castel d’Aiano (BO),44.278103,11.001818
+3,Water withdrawal,32,2019,Surface water,No,Fresh water,Castel d’Aiano (BO),44.278103,11.001818
+4,Water withdrawal,32,2021,Surface water,No,Fresh water,Castel d’Aiano (BO),44.278103,11.001818
+5,Water withdrawal,15,2023,Surface water,Yes,Fresh water,Castel d’Aiano (BO),44.278103,11.001818
+6,Water withdrawal,30,2015,Groundwater,Yes,Other,Reggio Emilia,44.698993,10.629686
+7,Water withdrawal,30,2017,Groundwater,Yes,Other,Reggio Emilia,44.698993,10.629686
+8,Water withdrawal,45,2019,Groundwater,Yes,Other,Reggio Emilia,44.698993,10.629686
+9,Water withdrawal,41,2021,Groundwater,Yes,Other,Reggio Emilia,44.698993,10.629686
+10,Water withdrawal,31,2023,Groundwater,Yes,Other,Reggio Emilia,44.698993,10.629686
+11,Water withdrawal,7,2015,Seawater,No,Other,Ravenna,44.4183598,12.2035294
+12,Water withdrawal,3,2017,Seawater,No,Other,Ravenna,44.4183598,12.2035294
+13,Water withdrawal,3,2019,Seawater,No,Other,Ravenna,44.4183598,12.2035294
+14,Water withdrawal,5,2021,Seawater,No,Other,Ravenna,44.4183598,12.2035294
+15,Water withdrawal,6,2023,Seawater,No,Other,Ravenna,44.4183598,12.2035294
+16,Water withdrawal,10,2015,Third-party water,Yes,Fresh water,Senigallia,43.716667,13.216667
+17,Water withdrawal,11,2017,Third-party water,Yes,Fresh water,Senigallia,43.716667,13.216667
+18,Water withdrawal,11,2019,Third-party water,Yes,Fresh water,Senigallia,43.716667,13.216667
+19,Water withdrawal,10,2021,Third-party water,Yes,Fresh water,Senigallia,43.716667,13.216667
+20,Water withdrawal,12,2023,Third-party water,Yes,Fresh water,Senigallia,43.716667,13.216667
+21,Water discharge,5,2015,Seawater,No,Other,Ravenna,44.4183598,12.2035294
+22,Water discharge,4,2017,Seawater,No,Other,Ravenna,44.4183598,12.2035294
+23,Water discharge,14,2019,Seawater,No,Other,Ravenna,44.4183598,12.2035294
+24,Water discharge,0,2021,Seawater,No,Other,Ravenna,44.4183598,12.2035294
+25,Water discharge,8,2023,Seawater,No,Other,Ravenna,44.4183598,12.2035294
+26,Water discharge,1,2015,Groundwater,No,Other,Grosseto,42.763525,11.112363
+27,Water discharge,3,2017,Groundwater,No,Other,Grosseto,42.763525,11.112363
+28,Water discharge,6,2019,Groundwater,No,Other,Grosseto,42.763525,11.112363
+29,Water discharge,2,2021,Groundwater,No,Other,Grosseto,42.763525,11.112363
+30,Water discharge,2,2023,Groundwater,No,Other,Grosseto,42.763525,11.112363
+31,Water consumption,200,2015,Surface water,No,Fresh water,Senigallia,43.716667,13.216667
+32,Water consumption,230,2017,Surface water,No,Fresh water,Senigallia,43.716667,13.216667
+33,Water consumption,209,2019,Surface water,No,Fresh water,Senigallia,43.716667,13.216667
+34,Water consumption,175,2021,Surface water,No,Fresh water,Senigallia,43.716667,13.216667
+35,Water consumption,190,2023,Surface water,No,Fresh water,Senigallia,43.716667,13.216667
+36,Water consumption,67,2015,Groundwater,Yes,Other,Reggio Emilia,44.698993,10.629686
+37,Water consumption,90,2017,Groundwater,Yes,Other,Reggio Emilia,44.698993,10.629686
+38,Water consumption,120,2019,Groundwater,Yes,Other,Reggio Emilia,44.698993,10.629686
+39,Water consumption,99,2021,Groundwater,Yes,Other,Reggio Emilia,44.698993,10.629686
+40,Water consumption,76,2023,Groundwater,Yes,Other,Reggio Emilia,44.698993,10.629686
